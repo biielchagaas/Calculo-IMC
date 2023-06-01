@@ -1,0 +1,17 @@
+C:\Users\gabri\source\repos\CalcIMC\bin\Debug\net6.0-windows\CalcIMC.exe
+C:\Users\gabri\source\repos\CalcIMC\bin\Debug\net6.0-windows\CalcIMC.deps.json
+C:\Users\gabri\source\repos\CalcIMC\bin\Debug\net6.0-windows\CalcIMC.runtimeconfig.json
+C:\Users\gabri\source\repos\CalcIMC\bin\Debug\net6.0-windows\CalcIMC.dll
+C:\Users\gabri\source\repos\CalcIMC\bin\Debug\net6.0-windows\CalcIMC.pdb
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.Form1.resources
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.AssemblyInfo.cs
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.dll
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\refint\CalcIMC.dll
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.pdb
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\CalcIMC.genruntimeconfig.cache
+C:\Users\gabri\source\repos\CalcIMC\obj\Debug\net6.0-windows\ref\CalcIMC.dll
