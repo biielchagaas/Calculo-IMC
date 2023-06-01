@@ -2,6 +2,9 @@ namespace CalcIMC
 {
     public partial class Form1 : Form
     {
+        //comentário
+
+        //comentário 2
         public Form1()
         {
             InitializeComponent();
