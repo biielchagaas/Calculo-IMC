@@ -1,5 +1,5 @@
 ﻿public static class Validacoes
-{
+{//comentário
     public static bool Validacao(string cpf)
     {
         cpf = cpf.Replace(".", "");
